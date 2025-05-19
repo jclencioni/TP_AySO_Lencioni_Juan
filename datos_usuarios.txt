@@ -1,0 +1,1 @@
+model name	: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz
